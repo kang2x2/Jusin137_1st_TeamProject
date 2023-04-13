@@ -83,3 +83,4 @@ void CMainGame::Release(void)
 	ReleaseDC(g_hWnd, m_DC);
 }
 
+//test MSH
