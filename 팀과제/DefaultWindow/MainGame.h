@@ -24,4 +24,4 @@ public:
 	CMainGame();
 	~CMainGame();
 };
-
+// 잘 합쳐졌으면 좋겠다.
